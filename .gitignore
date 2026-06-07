@@ -1,0 +1,22 @@
+# File e cartelle locali da NON tracciare
+.swarm/
+.claude/settings.local.json
+secrets_local.py
+# Database e memorie locali
+*.db
+*.sqlite
+*.log
+
+# File temporanei / di sistema
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+
+# Ambiente locale / editor
+.vscode/
+.idea/
+.env
+.env.*
+.DS_Store
+Thumbs.db

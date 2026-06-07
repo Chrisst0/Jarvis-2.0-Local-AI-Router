@@ -1,0 +1,6 @@
+{
+  "type": "discord.send_message",
+  "payload": {
+    "message": "Ciao come stai jarvis?"
+  }
+}
